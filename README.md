@@ -2,7 +2,7 @@
 
 ### Lic. en Ciencias de la Computación | Desarrollador Full-Stack
 
-[cite_start]Soy un Desarrollador Full-Stack proactivo con experiencia freelance en la creación de soluciones web completas y la integración de IA/Chatbots[cite: 5]. [cite_start]Aprovecho mi sólida formación académica y mi experiencia en programación competitiva para resolver problemas complejos de manera eficiente[cite: 6].
+Soy un Desarrollador Full-Stack proactivo con experiencia freelance en la creación de soluciones web completas y la integración de IA/Chatbots. Aprovecho mi sólida formación académica y mi experiencia en programación competitiva para resolver problemas complejos de manera eficiente[cite: 6].
 
 ---
 
@@ -53,11 +53,11 @@
 
 ### 🌱 Sobre Mí
 
-* [cite_start]🔭 **Experiencia Profesional:** Trabajé como Desarrollador web Full-Stack en Empresa Fortify, centrado en PHP y Bootstrap[cite: 12, 13, 14].
-* [cite_start]🎓 **Educación:** Graduado de la Licenciatura en Ciencias de la Computación en la Universidad Marta Abreu de las Villas (2025)[cite: 17, 18].
-* [cite_start]🏆 **Logros:** Participante en el Concurso Internacional de Programación Universitaria (ICPC)[cite: 19].
+* 🔭 **Experiencia Profesional:** Trabajé como Desarrollador web Full-Stack en Empresa Fortify, centrado en PHP y Bootstrap.
+* 🎓 **Educación:** Graduado de la Licenciatura en Ciencias de la Computación en la Universidad Marta Abreu de las Villas (2025).
+* 🏆 **Logros:** Participante en el Concurso Internacional de Programación Universitaria (ICPC).
 
 ### 📫 ¿Cómo contactarme?
 
-* [cite_start]**Email:** [murdockpudusa@gmail.com](mailto:murdockpudusa@gmail.com) [cite: 9]
-* **LinkedIn:** `(Aquí puedes poner el enlace a tu perfil de LinkedIn)`
+* **Email:** [murdockpudusa@gmail.com](mailto:murdockpudusa@gmail.com)
+* **LinkedIn:** `https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile`
