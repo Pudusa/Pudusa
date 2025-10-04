@@ -2,7 +2,7 @@
 
 ### Lic. en Ciencias de la Computación | Desarrollador Full-Stack
 
-Soy un Desarrollador Full-Stack proactivo con experiencia freelance en la creación de soluciones web completas y la integración de IA/Chatbots. Aprovecho mi sólida formación académica y mi experiencia en programación competitiva para resolver problemas complejos de manera eficiente[cite: 6].
+Soy un Desarrollador Full-Stack proactivo con experiencia freelance en la creación de soluciones web completas y la integración de IA/Chatbots. Aprovecho mi sólida formación académica y mi experiencia en programación competitiva para resolver problemas complejos de manera eficiente.
 
 ---
 
