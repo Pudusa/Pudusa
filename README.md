@@ -60,4 +60,4 @@ Soy un Desarrollador Full-Stack proactivo con experiencia freelance en la creaci
 ### 📫 ¿Cómo contactarme?
 
 * **Email:** [murdockpudusa@gmail.com](mailto:murdockpudusa@gmail.com)
-* **LinkedIn:** [Bryan Rodríguez Soto](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
+* **LinkedIn:** [Bryan Rodríguez Soto](www.linkedin.com/in/bryan-rodríguez-soto-b34658367)
